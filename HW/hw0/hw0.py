@@ -1,0 +1,1 @@
+print(f"Hello world!\n哈囉！世界～")
